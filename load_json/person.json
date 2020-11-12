@@ -1,0 +1,30 @@
+[
+ {
+    "name" : "Nabeel Khanjee",
+    "age" : "21",
+    "height" : "5.7",
+    "gender" : "male",
+    "hair_color" : "golder"
+ },
+ {
+    "name" : "Salik Ahmed",
+    "age" : "20",
+    "height" : "5.9",
+    "gender" : "male",
+    "hair_color" : "black"
+ },
+ {
+    "name" : "Owais",
+    "age" : "20",
+    "height" : "5.5",
+    "gender" : "male",
+    "hair_color" : "black"
+ },
+ {
+    "name" : "Zahid",
+    "age" : "25",
+    "height" : "5.8",
+    "gender" : "male",
+    "hair_color" : "black"
+ }
+]
